@@ -17,7 +17,7 @@ def clr():
 
 chance = 1
 current = 0
-decay = 0.5
+decay = 0.3
 luck = 1
 
 while True:
