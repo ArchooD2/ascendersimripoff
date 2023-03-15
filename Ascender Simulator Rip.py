@@ -31,4 +31,4 @@ while True:
         chance *= decay
         x = find_decimals(chance)
         print(key)
-        print(f"{chance:.xf}")
+        print(f"{chance}")
